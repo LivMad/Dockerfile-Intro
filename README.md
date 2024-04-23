@@ -1,4 +1,3 @@
-# Fatorial, Bháskara e Série de Taylor
-Exercício Dockerfile
+# Fatorial, Bhaskara e Série de Taylor
 
-Realizar funções em python para compreensão de um dockerfile.
+Realizar 3 funções em python para compreensão de um dockerfile.
